@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "VoidClaw.aternos.me",
+    "port": 53500,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a Bot Designed by Engine_963",
+        "Make sure to Join [Voidclaw] in all Mineberry servers!",
+        ""
       ]
     },
     "chat-log": true,
